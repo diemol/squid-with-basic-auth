@@ -1,0 +1,1 @@
+# squid-with-basic-auth
