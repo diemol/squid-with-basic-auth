@@ -1,6 +1,6 @@
 # Squid with Basic Auth
 
-Repo based on https://github.com/sameersbn/docker-squid#configuration
+Repo based on https://github.com/sameersbn/docker-squid
 
 It just adds a simple configuration file and a password file, which can be useful for local testing.
 
