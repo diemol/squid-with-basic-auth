@@ -10,3 +10,5 @@ How to run the proxy:
 docker run --rm --name squid --publish 3128:3128 -v ${PWD}/squid.conf:/etc/squid/squid.conf \
   -v ${PWD}/squid/cache:/var/spool/squid -v ${PWD}/passwords:/etc/squid/passwords sameersbn/squid:3.5.27
 ```
+
+User/Pwd for prompt: docker-proxy/selenium
